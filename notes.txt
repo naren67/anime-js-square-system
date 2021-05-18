@@ -1,0 +1,4 @@
+https://animejs.com/
+
+cdn link
+https://cdnjs.com/libraries/animejs
